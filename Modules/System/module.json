@@ -1,0 +1,16 @@
+{
+    "name": "System",
+    "alias": "system",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\System\\Providers\\SystemServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
